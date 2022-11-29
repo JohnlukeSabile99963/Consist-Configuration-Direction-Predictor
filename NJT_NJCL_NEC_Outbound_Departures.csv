@@ -1,0 +1,171 @@
+Train ID:,Line,Destination,Service Day,Departure Timing,Stations Stopped at En Route,Service Class
+3809,NEC,Trenton,Weekday,AM,14,Local
+3209,NJCL,Long Branch,Weekday,AM,16,Local
+3813,NEC,Trenton,Weekday,AM,15,Local
+3215,NJCL,Long Branch-BH,Weekday,AM,17,Local
+3701,NEC,Jersey Avenue,Weekday,AM,6,Express
+3503,NJCL,South Amboy,Weekday,AM,6,Express
+3815,NEC,Trenton,Weekday,AM,13,Local
+3217,NJCL,Long Branch,Weekday,AM,16,Local
+3705,NEC,Jersey Avenue,Weekday,AM,4,Express
+3817,NEC,Trenton,Weekday,AM,14,Local
+3505,NJCL,South Amboy,Weekday,AM,5,Express
+3221,NJCL,Long Branch-BH,Weekday,AM,26,Local
+3821,NEC,Trenton,Weekday,AM,13,Local
+3709,NEC,Jersey Avenue,Weekday,AM,7,Express
+3223,NJCL,Long Branch-BH,Weekday,AM,25,Local
+3823,NEC,Trenton,Weekday,AM,12,Semi-Local
+3713,NEC,Jersey Avenue,Weekday,AM,9,Semi-Local
+3825,NEC,Trenton,Weekday,AM,14,Local
+3827,NEC,Trenton,Weekday,AM,14,Local
+3915,NEC,Trenton,Weekday,AM,11,Semi-Local
+3227,NJCL,Long Branch,Weekday,AM,15,Local
+3917,NEC,Trenton,Weekday,AM,7,Express
+3829,NEC,Trenton,Weekday,AM,13,Local
+3831,NEC,Trenton,Weekday,AM,15,Local
+3231,NJCL,Long Branch-BH,Weekday,AM,25,Local
+3833,NEC,Trenton,Weekday,AM,13,Local
+3835,NEC,Trenton,Weekday,AM,14,Local
+3235,NJCL,Long Branch-BH,Weekday,AM,25,Local
+3837,NEC,Trenton,Weekday,AM,14,Local
+3839,NEC,Trenton,Weekday,AM,14,Local
+3239,NJCL,Long Branch,Weekday,AM,17,Local
+3841,NEC,Trenton,Weekday,PM,15,Local
+3843,NEC,Trenton,Weekday,PM,14,Local
+3243,NJCL,Long Branch-BH,Weekday,PM,25,Local
+3845,NEC,Trenton,Weekday,PM,14,Local
+8245,NJCL,Long Branch,Weekday Extra,PM,13,Semi-Local
+3847,NEC,Trenton,Weekday,PM,15,Local
+3247,NJCL,Long Branch,Weekday,PM,14,Semi-Local
+8849,NEC,Trenton,Weekday Extra,PM,7,Express
+3849,NEC,Trenton,Weekday,PM,14,Local
+8851,NEC,Trenton,Weekday Extra,PM,8,Express
+3719,NEC,Jersey Avenue,Weekday,PM,12,Local
+8249,NJCL,Long Branch,Weekday Extra,PM,12,Express
+3251,NJCL,Long Branch-BH,Weekday,PM,22,Semi-Local
+3937,NEC,Trenton,Weekday,PM,7,Express
+3753,NJCL,Jersey Avenue,Weekday,PM,11,Local
+8353,NJCL,Bay Head,Weekday Extra,PM,20,Express
+8855,NEC,Trenton,Weekday Extra,PM,5,Super-Express
+3509,NJCL,South Amboy,Weekday,PM,11,Local
+3855,NEC,Trenton,Weekday,PM,10,Express
+3857,NEC,Trenton,Weekday,PM,12,Local
+3255,NJCL,Long Branch-BH,Weekday,PM,18,Express
+3721,NEC,Jersey Avenue,Weekday,PM,8,Express
+3595,NJCL,South Amboy,Weekday,PM,11,Local
+3943,NEC,Trenton,Weekday,PM,5,Super-Express
+3723,NEC,Jersey Avenue,Weekday,PM,7,Express
+3361,NJCL,Bay Head,Weekday,PM,21,Express
+3861,NEC,Trenton,Weekday,PM,14,Local
+3947,NEC,Trenton,Weekday,PM,5,Super-Express
+3165,NEC,Jersey Avenue,Weekday,PM,8,Express
+3363,NJCL,Bay Head,Weekday,PM,19,Express
+3949,NEC,Trenton,Weekday,PM,4,Super-Express
+3511,NJCL,South Amboy,Weekday,PM,10,Local
+3725,NEC,Jersey Avenue,Weekday,PM,7,Express
+3951,NEC,Trenton,Weekday,PM,5,Super-Express
+3265,NJCL,Long Branch,Weekday,PM,13,Express
+3867,NEC,Trenton,Weekday,PM,12,Semi-Local
+3513,NJCL,South Amboy,Weekday,PM,11,Local
+3267,NJCL,Long Branch-BH,Weekday,PM,18,Express
+3727,NEC,Jersey Avenue,Weekday,PM,7,Express
+3953,NEC,Trenton,Weekday,PM,5,Super-Express
+3871,NEC,Trenton,Weekday,PM,11,Express
+3271,NJCL,Long Branch,Weekday,PM,17,Local
+3957,NEC,Trenton,Weekday,PM,4,Super-Express
+3373,NJCL,Bay Head,Weekday,PM,19,Express
+3959,NEC,Trenton,Weekday,PM,7,Express
+3873,NEC,Trenton,Weekday,PM,11,Semi-Local
+3515,NJCL,South Amboy,Weekday,PM,11,Local
+3275,NJCL,Long Branch-BH,Weekday,PM,19,Express
+3175,NEC,Jersey Avenue,Weekday,PM,8,Express
+3961,NEC,Trenton,Weekday,PM,6,Express
+3875,NEC,Trenton,Weekday,PM,15,Local
+3279,NEC,Long Branch-BH,Weekday,PM,23,Semi-Local
+3963,NEC,Trenton,Weekday,PM,8,Express
+3733,NEC,Jersey Avenue,Weekday,PM,8,Express
+3281,NJCL,Long Branch,Weekday,PM,16,Local
+3881,NEC,Trenton,Weekday,PM,14,Local
+3965,NEC,Trenton,Weekday,PM,6,Express
+3883,NEC,Trenton,Weekday,PM,15,Local
+3969,NEC,Trenton,Weekday,PM,7,Express
+3283,NJCL,Long Branch-BH,Weekday,PM,23,Semi-Local
+3885,NEC,Trenton,Weekday,PM,11,Express
+3285,NJCL,Long Branch,Weekday,PM,17,Local
+3887,NEC,Trenton,Weekday,PM,12,Semi-Local
+3889,NEC,Trenton,Weekday,PM,12,Semi-Local
+3289,NJCL,Long Branch,Weekday,PM,25,Local
+3737,NEC,Jersey Avenue,Weekday,PM,12,Local
+3891,NEC,Trenton,Weekday,PM,12,Semi-Local
+3293,NJCL,Long Branch-BH,Weekday,PM,26,Local
+3893,NEC,Trenton,Weekday,PM,12,Semi-Local
+3895,NEC,Trenton,Weekday,PM,15,Local
+3297,NJCL,Long Branch-BH,Weekday,PM,25,Local
+3201,NJCL,Long Branch,Weekday,Late Night,17,Local
+3897,NEC,Trenton,Weekday,Late Night,15,Local
+3205,NJCL,Long Branch,Weekday,Late Night,16,Local
+3805,NEC,Trenton,Weekday,Late Night,11,Local
+7813,NEC,Trenton,Weekend/Holiday,AM,14,Local
+7217,NJCL,Long Branch,Weekend/Holiday,AM,17,Local
+7817,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7221,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local
+7821,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7225,NJCL,Long Branch,Weekend/Holiday,AM,16,Local
+7625,NJCL,Rahway,Weekend/Holiday,AM,7,Local
+7825,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7229,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local
+7629,NJCL,Rahway,Weekend/Holiday,AM,7,Local
+7829,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7233,NJCL,Long Branch,Weekend/Holiday,AM,17,Local
+7833,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7237,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local
+7637,NJCL,Rahway,Weekend/Holiday,AM,7,Local
+7837,NEC,Trenton,Weekend/Holiday,AM,13,Local
+7839,NEC,Rahway,Weekend/Holiday,PM,6,Local
+7241,NJCL,Long Branch,Weekend/Holiday,PM,13,Semi-Local
+7841,NEC,Trenton,Weekend/Holiday,PM,14,Local
+8841,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express
+7245,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local
+7845,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7847,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7249,NJCL,Long Branch,Weekend/Holiday,PM,16,Local
+7849,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7851,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7253,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local
+7853,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7855,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7657,NJCL,Rahway,Weekend/Holiday,PM,7,Local
+7257,NJCL,Long Branch,Weekend/Holiday,PM,16,Local
+7857,NEC,Trenton,Weekend/Holiday,PM,13,Local
+8325,NJCL,Bay Head,Weekend/Holiday Extra,PM,22,Express
+7859,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7661,NJCL,Rahway,Weekend/Holiday,PM,6,Local
+7261,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local
+7861,NEC,Trenton,Weekend/Holiday,PM,13,Local
+8861,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express
+7863,NEC,Trenton,Weekend/Holiday,PM,9,Express
+7665,NJCL,Rahway,Weekend/Holiday,PM,6,Local
+7265,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local
+7865,NEC,Trenton,Weekend/Holiday,PM,13,Local
+8865,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express
+7867,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7269,NJCL,Long Branch,Weekend/Holiday,PM,17,Local
+7869,NEC,Trenton,Weekend/Holiday,PM,13,Local
+7673,NJCL,Rahway,Weekend/Holiday,PM,6,Local
+7871,NEC,Trenton,Weekend/Holiday,PM,10,Express
+7273,NJCL,Long Branch-BH,Weekend/Holiday,PM,23,Local
+7873,NEC,Trenton,Weekend/Holiday,PM,13,Local
+7875,NEC,Trenton,Weekend/Holiday,PM,9,Express
+7277,NJCL,Long Branch-BH,Weekend/Holiday,PM,24,Local
+7877,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7879,NEC,Trenton,Weekend/Holiday,PM,9,Express
+7281,NJCL,Long Branch,Weekend/Holiday,PM,16,Local
+7881,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7883,NEC,Trenton,Weekend/Holiday,PM,9,Express
+7285,NJCL,Long Branch-BH,Weekend/Holiday,PM,24,Local
+7885,NEC,Trenton,Weekend/Holiday,PM,14,Local
+7201,NJCL,Long Branch,Weekend/Holiday,Late Night,17,Local
+7887,NEC,Trenton,Weekend/Holiday,Late Night,15,Local
+7801,NEC,Trenton,Weekend/Holiday,Late Night,14,Local
+7205,NJCL,Long Branch-BH,Weekend/Holiday,Late Night,25,Local
+7805,NEC,Trenton,Weekend/Holiday,,15,Local
