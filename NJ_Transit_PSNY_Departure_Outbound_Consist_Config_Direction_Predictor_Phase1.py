@@ -11,13 +11,13 @@ import csv
 import openpyxl
 import numpy as np
 
-# This program is responsible for predicting the configuration direction of
-# outbound North Jersey Coast Line and Northeast Corridor
-# NJ Transit Trains from Penn Station NY to Rahway, South Amboy,
-# Long Branch, Bay Head, Jersey Avenue, and Trenton.
+
+# Question to Consider: Can you predict the consist configuration direction of
+# NJ Transit outbound Morris & Essex line, Montclair-Boonton, North Jersey Coast Line,
+# and Northeast Corridor services that depart from New York Penn Station?
 
 
-# Create Departure Dataframe for Outbound NJCL and NEC Trains
+# Create Departure Dataframe for Outbound M&E, MOBO, NJCL, and NEC Trains
 Outbound_NJCL_NEC_DPS_DF = pd.read_csv("NJ_Transit_Outbound_PSNY_Departures.csv")
 
 
@@ -99,8 +99,8 @@ plt.show()
 
 plt.figure(6)
 sns.countplot(data=Outbound_NJCL_NEC_DPS_DF, x="Configuration Direction", hue="Service Class")
-# If skipped stations < 3, Service Class = Local.
-# Semi-Local and Express services may vary.
+# If skipped stations < 3, Service Class = Local
+# Semi-Local, Express, and Super-Express services may vary.
 plt.title("NJ Transit Outbound Departures from Penn Station")
 plt.xlabel("Configuration Direction Class: R for 'Right' Consist Direction, W for 'Wrong' Consist Direction")
 plt.ylabel("Trains Per Service Class")
@@ -126,4 +126,3 @@ plt.title("NJ Transit Outbound Departures from Penn Station")
 plt.xlabel("Configuration Direction Class: R for 'Right' Consist Direction, W for 'Wrong' Consist Direction")
 plt.ylabel("Trains Per Service Class")
 plt.show()
-
