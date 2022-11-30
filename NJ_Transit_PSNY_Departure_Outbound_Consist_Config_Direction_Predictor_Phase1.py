@@ -31,16 +31,14 @@ Outbound_NJCL_NEC_DPS_DF['Configuration Direction'] = pd.Series(random.choices([
                                                                                weights=[1, 1],
                                                                                k=len(Outbound_NJCL_NEC_DPS_DF)))
 
-# Outbound_NJCL_NEC_DPS_DF.to_excel("NJT_NJCL_NEC_Outbound_Departures.xlsx", header=True)
-# new_departure_df = pd.ExcelWriter("NJT_NJCL_NEC_Outbound_Departures.xlsx")
-# Outbound_NJCL_NEC_DPS_DF.to_excel(new_departure_df, index=False)
-# print(new_departure_df)
 print(Outbound_NJCL_NEC_DPS_DF)
 
 print("\nTotal # of Outbound PSNY Departures:", len(Outbound_NJCL_NEC_DPS_DF), "\n")
 
+
 # Train ID is not necessary for visualizations.
 # We will predict the Configuration Direction, so it is also not necessary to include in visualizations.
+
 
 Outbound_NJCL_NEC_DPS_DF.drop(["Train ID:"], axis=1)
 Outbound_NJCL_NEC_DPS_DF.drop(["Configuration Direction"], axis=1)
