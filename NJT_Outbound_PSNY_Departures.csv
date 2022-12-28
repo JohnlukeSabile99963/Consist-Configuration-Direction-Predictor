@@ -1,0 +1,267 @@
+Train ID:,Line,Destination,Service Day,Departure Timing,Stations Stopped at En Route,Service Class,Expected Travel Time En Route (Mins),Distance Covered (Miles)
+6305,M&E,Summit,Weekday,AM,6,Express,44,22.7
+6307,M&E,Summit,Weekday,AM,9,Semi-Local,50,22.7
+6607,M&E,Dover,Weekday,AM,17,Semi-Local,88,43.1
+6611,M&E,Dover,Weekday,AM,16,Semi-Local,88,43.1
+6613,M&E,Dover,Weekday,AM,19,Local,93,43.1
+6315,M&E,Summit,Weekday,AM,9,Semi-Local,51,22.7
+6617,M&E,Dover,Weekday,AM,13,Express,85,43.1
+6317,M&E,Summit,Weekday,AM,9,Semi-Local,46,22.7
+6619,M&E,Dover,Weekday,AM,17,Semi-Local,90,43.1
+6621,M&E,Dover,Weekday,AM,16,Semi-Local,87,43.1
+6625,M&E,Dover,Weekday,AM,16,Semi-Local,89,43.1
+6627,M&E,Dover,Weekday,PM,16,Semi-Local,89,43.1
+6631,M&E,Dover,Weekday,PM,17,Semi-Local,94,43.1
+8935,M&E,Dover,Weekday Extra,PM,15,Semi-Local,91,43.1
+6635,M&E,Dover,Weekday,PM,18,Local,93,43.1
+6339,M&E,Summit,Weekday,PM,7,Express,45,22.7
+6639,M&E,Dover,Weekday,PM,10,Express,74,43.1
+6341,M&E,Summit,Weekday,PM,10,Local,49,22.7
+8941,M&E,Dover,Weekday Extra,PM,11,Express,81,43.1
+6641,M&E,Dover,Weekday,PM,10,Express,75,43.1
+6343,M&E,Summit,Weekday,PM,10,Local,49,22.7
+6643,M&E,Dover,Weekday,PM,11,Express,81,43.1
+6647,M&E,Dover,Weekday,PM,11,Express,83,43.1
+6431,M&E,Gladstone,Weekday,PM,16,Express,97,45
+6651,M&E,Dover,Weekday,PM,13,Express,88,43.1
+6653,M&E,Dover,Weekday,PM,10,Express,74,43.1
+6437,M&E,Gladstone,Weekday,PM,15,Express,93,45
+6355,M&E,Summit,Weekday,PM,8,Express,49,22.7
+6655,M&E,Dover,Weekday,PM,10,Express,84,43.1
+6359,M&E,Summit,Weekday,PM,8,Express,51,22.7
+6659,M&E,Dover,Weekday,PM,10,Express,83,43.1
+6363,M&E,Summit,Weekday,PM,7,Express,49,22.7
+6663,M&E,Dover,Weekday,PM,11,Express,78,43.1
+6667,M&E,Dover,Weekday,PM,15,Semi-Local,90,43.1
+6671,M&E,Dover,Weekday,PM,17,Semi-Local,92,43.1
+6675,M&E,Dover,Weekday,PM,16,Semi-Local,91,43.1
+6677,M&E,Dover,Weekday,PM,20,Semi-Local,92,43.1
+6679,M&E,Dover,Weekday,PM,16,Semi-Local,91,43.1
+6683,M&E,Dover,Weekday,Late Night,17,Semi-Local,94,43.1
+6601,M&E,Dover,Weekday,Late Night,19,Local,94,43.1
+8911,M&E,Dover,Weekend/Holiday Extra,AM,19,Local,105,43.1
+6913,M&E,Dover,Weekend/Holiday,AM,19,Local,105,43.1
+6915,M&E,Dover,Weekend/Holiday,AM,18,Local,103,43.1
+6917,M&E,Dover,Weekend/Holiday,AM,18,Local,103,43.1
+6919,M&E,Dover,Weekend/Holiday,AM,19,Local,105,43.1
+6921,M&E,Dover,Weekend/Holiday,AM,18,Local,103,43.1
+6923,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6925,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+6927,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6929,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6931,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+8431,M&E,Peapack,Weekend/Holiday Extra,PM,19,Semi-Local,100,45
+6933,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+8933,M&E,Dover,Weekend/Holiday Extra,PM,16,Semi-Local,94,43.1
+8433,M&E,Peapack,Weekend/Holiday,PM,19,Semi-Local,100,45
+6935,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+6937,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+6939,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6941,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6943,M&E,Dover,Weekend/Holiday,PM,19,Local,105,43.1
+6945,M&E,Dover,Weekend/Holiday,PM,18,Local,103,43.1
+6907,M&E,Dover,Weekend/Holiday,Late Night,19,Local,99,43.1
+6909,M&E,Dover,Weekend/Holiday,Late Night,20,Local,103,43.1
+6209,MOBO,MSU,Weekday,AM,4,Express,47,22.6
+6213,MOBO,MSU,Weekday,AM,11,Local,51,22.6
+6215,MOBO,MSU,Weekday,AM,11,Local,51,22.6
+6219,MOBO,MSU,Weekday,AM,12,Local,52,22.6
+6227,MOBO,MSU,Weekday,AM,11,Local,46,22.6
+6231,MOBO,MSU,Weekday,AM,12,Local,56,22.6
+6233,MOBO,MSU,Weekday,AM,12,Local,58,22.6
+6237,MOBO,MSU,Weekday,AM,12,Local,56,22.6
+6241,MOBO,MSU,Weekday,PM,12,Local,56,22.6
+6245,MOBO,MSU,Weekday,PM,12,Local,58,22.6
+6251,MOBO,MSU,Weekday,PM,12,Local,53,22.6
+6253,MOBO,MSU,Weekday,PM,12,Local,51,22.6
+6263,MOBO,MSU,Weekday,PM,11,Local,49,22.6
+6273,MOBO,MSU,Weekday,PM,11,Local,53,22.6
+6279,MOBO,MSU,Weekday,PM,11,Local,54,22.6
+6283,MOBO,MSU,Weekday,PM,12,Local,54,22.6
+6291,MOBO,MSU,Weekday,PM,12,Local,52,22.6
+6293,MOBO,MSU,Weekday,PM,12,Local,52,22.6
+6295,MOBO,MSU,Weekday,PM,12,Local,52,22.6
+6297,MOBO,MSU,Weekday,PM,12,Local,52,22.6
+6299,MOBO,MSU,Weekday,PM,12,Local,52,22.6
+6201,MOBO,MSU,Weekday,Late Night,12,Local,50,22.6
+9225,MOBO,MSU,Weekend/Holiday Extra,PM,11,Local,48,22.6
+9227,MOBO,MSU,Weekend/Holiday Extra,PM,11,Local,48,22.6
+9229,MOBO,MSU,Weekend/Holiday Extra,PM,11,Local,48,22.6
+3809,NEC,Trenton,Weekday,AM,14,Local,99,58.1
+3209,NJCL,Long Branch,Weekday,AM,16,Local,97,53.9
+3813,NEC,Trenton,Weekday,AM,15,Local,97,58.1
+3215,NJCL,Long Branch-BH,Weekday,AM,17,Local,152,75.1
+3701,NEC,Jersey Avenue,Weekday,AM,6,Express,52,34.4
+3503,NJCL,South Amboy,Weekday,AM,6,Express,53,30.1
+3815,NEC,Trenton,Weekday,AM,13,Local,89,58.1
+3217,NJCL,Long Branch,Weekday,AM,16,Local,96,53.9
+3705,NEC,Jersey Avenue,Weekday,AM,4,Express,47,34.4
+3817,NEC,Trenton,Weekday,AM,14,Local,97,58.1
+3505,NJCL,South Amboy,Weekday,AM,5,Express,48,30.1
+3221,NJCL,Long Branch-BH,Weekday,AM,26,Local,148,75.1
+3821,NEC,Trenton,Weekday,AM,13,Local,91,58.1
+3709,NEC,Jersey Avenue,Weekday,AM,7,Express,54,34.4
+3223,NJCL,Long Branch-BH,Weekday,AM,25,Local,144,75.1
+3823,NEC,Trenton,Weekday,AM,12,Semi-Local,91,58.1
+3713,NEC,Jersey Avenue,Weekday,AM,9,Semi-Local,61,34.4
+3825,NEC,Trenton,Weekday,AM,14,Local,95,58.1
+3827,NEC,Trenton,Weekday,AM,14,Local,95,58.1
+3915,NEC,Trenton,Weekday,AM,11,Semi-Local,91,58.1
+3227,NJCL,Long Branch,Weekday,AM,15,Local,99,53.9
+3917,NEC,Trenton,Weekday,AM,7,Express,75,58.1
+3829,NEC,Trenton,Weekday,AM,13,Local,90,58.1
+3831,NEC,Trenton,Weekday,AM,15,Local,97,58.1
+3231,NJCL,Long Branch-BH,Weekday,AM,25,Local,145,75.1
+3833,NEC,Trenton,Weekday,AM,13,Local,89,58.1
+3835,NEC,Trenton,Weekday,AM,14,Local,91,58.1
+3235,NJCL,Long Branch-BH,Weekday,AM,25,Local,147,75.1
+3837,NEC,Trenton,Weekday,AM,14,Local,93,58.1
+3839,NEC,Trenton,Weekday,AM,14,Local,96,58.1
+3239,NJCL,Long Branch,Weekday,AM,17,Local,100,53.9
+3841,NEC,Trenton,Weekday,PM,15,Local,94,58.1
+3843,NEC,Trenton,Weekday,PM,14,Local,95,58.1
+3243,NJCL,Long Branch-BH,Weekday,PM,25,Local,148,75.1
+3845,NEC,Trenton,Weekday,PM,14,Local,94,58.1
+8245,NJCL,Long Branch,Weekday Extra,PM,13,Semi-Local,94,53.9
+3847,NEC,Trenton,Weekday,PM,15,Local,99,58.1
+3247,NJCL,Long Branch,Weekday,PM,14,Semi-Local,96,53.9
+8849,NEC,Trenton,Weekday Extra,PM,7,Express,79,58.1
+3849,NEC,Trenton,Weekday,PM,14,Local,97,58.1
+8851,NEC,Trenton,Weekday Extra,PM,8,Express,85,58.1
+3719,NEC,Jersey Avenue,Weekday,PM,12,Local,69,34.4
+8249,NJCL,Long Branch,Weekday Extra,PM,12,Express,96,53.9
+3251,NJCL,Long Branch-BH,Weekday,PM,22,Semi-Local,137,75.1
+3937,NEC,Trenton,Weekday,PM,7,Express,78,58.1
+3753,NJCL,Jersey Avenue,Weekday,PM,11,Local,68,34.4
+8353,NJCL,Bay Head,Weekday Extra,PM,20,Express,130,75.1
+8855,NEC,Trenton,Weekday Extra,PM,5,Super-Express,73,58.1
+3509,NJCL,South Amboy,Weekday,PM,11,Local,64,30.1
+3855,NEC,Trenton,Weekday,PM,10,Express,84,58.1
+3857,NEC,Trenton,Weekday,PM,12,Semi-Local,90,58.1
+3255,NJCL,Long Branch-BH,Weekday,PM,18,Express,129,75.1
+3721,NEC,Jersey Avenue,Weekday,PM,8,Express,63,34.4
+3595,NJCL,South Amboy,Weekday,PM,11,Local,66,30.1
+3943,NEC,Trenton,Weekday,PM,5,Super-Express,73,58.1
+3723,NEC,Jersey Avenue,Weekday,PM,7,Express,62,34.4
+3361,NJCL,Bay Head,Weekday,PM,21,Express,130,75.1
+3861,NEC,Trenton,Weekday,PM,14,Local,92,58.1
+3947,NEC,Trenton,Weekday,PM,5,Super-Express,72,58.1
+3165,NEC,Jersey Avenue,Weekday,PM,8,Express,63,34.4
+3363,NJCL,Bay Head,Weekday,PM,19,Express,126,75.1
+3949,NEC,Trenton,Weekday,PM,4,Super-Express,72,58.1
+3511,NJCL,South Amboy,Weekday,PM,10,Local,61,30.1
+3725,NEC,Jersey Avenue,Weekday,PM,7,Express,58,34.4
+3951,NEC,Trenton,Weekday,PM,5,Super-Express,74,58.1
+3265,NJCL,Long Branch,Weekday,PM,13,Express,93,53.9
+3867,NEC,Trenton,Weekday,PM,12,Semi-Local,96,58.1
+3513,NJCL,South Amboy,Weekday,PM,11,Local,65,30.1
+3267,NJCL,Long Branch-BH,Weekday,PM,18,Express,131,75.1
+3727,NEC,Jersey Avenue,Weekday,PM,7,Express,59,34.4
+3953,NEC,Trenton,Weekday,PM,5,Super-Express,71,58.1
+3871,NEC,Trenton,Weekday,PM,11,Express,85,58.1
+3271,NJCL,Long Branch,Weekday,PM,17,Local,106,53.9
+3957,NEC,Trenton,Weekday,PM,4,Super-Express,72,58.1
+3373,NJCL,Bay Head,Weekday,PM,19,Express,128,75.1
+3959,NEC,Trenton,Weekday,PM,7,Express,83,58.1
+3873,NEC,Trenton,Weekday,PM,11,Semi-Local,90,58.1
+3515,NJCL,South Amboy,Weekday,PM,11,Local,72,30.1
+3275,NJCL,Long Branch-BH,Weekday,PM,19,Express,133,75.1
+3175,NEC,Jersey Avenue,Weekday,PM,8,Express,59,34.4
+3961,NEC,Trenton,Weekday,PM,6,Express,77,58.1
+3875,NEC,Trenton,Weekday,PM,15,Local,98,58.1
+3279,NEC,Long Branch-BH,Weekday,PM,23,Semi-Local,140,75.1
+3963,NEC,Trenton,Weekday,PM,8,Express,84,58.1
+3733,NEC,Jersey Avenue,Weekday,PM,8,Express,62,34.4
+3281,NJCL,Long Branch,Weekday,PM,16,Local,95,53.9
+3881,NEC,Trenton,Weekday,PM,14,Local,93,58.1
+3965,NEC,Trenton,Weekday,PM,6,Express,78,58.1
+3883,NEC,Trenton,Weekday,PM,15,Local,99,58.1
+3969,NEC,Trenton,Weekday,PM,7,Express,80,58.1
+3283,NJCL,Long Branch-BH,Weekday,PM,23,Semi-Local,140,75.1
+3885,NEC,Trenton,Weekday,PM,11,Express,90,58.1
+3285,NJCL,Long Branch,Weekday,PM,17,Local,100,53.9
+3887,NEC,Trenton,Weekday,PM,12,Semi-Local,88,58.1
+3889,NEC,Trenton,Weekday,PM,12,Semi-Local,89,58.1
+3289,NJCL,Long Branch,Weekday,PM,25,Local,98,53.9
+3737,NEC,Jersey Avenue,Weekday,PM,12,Local,72,34.4
+3891,NEC,Trenton,Weekday,PM,12,Semi-Local,91,58.1
+3293,NJCL,Long Branch-BH,Weekday,PM,26,Local,150,75.1
+3893,NEC,Trenton,Weekday,PM,12,Semi-Local,89,58.1
+3895,NEC,Trenton,Weekday,PM,15,Local,100,58.1
+3297,NJCL,Long Branch-BH,Weekday,PM,25,Local,146,75.1
+3201,NJCL,Long Branch,Weekday,Late Night,17,Local,103,53.9
+3897,NEC,Trenton,Weekday,Late Night,15,Local,99,58.1
+3205,NJCL,Long Branch,Weekday,Late Night,16,Local,102,53.9
+3805,NEC,Trenton,Weekday,Late Night,11,Local,104,58.1
+7813,NEC,Trenton,Weekend/Holiday,AM,14,Local,95,58.1
+7217,NJCL,Long Branch,Weekend/Holiday,AM,17,Local,99,53.9
+7817,NEC,Trenton,Weekend/Holiday,AM,13,Local,93,58.1
+7221,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local,147,75.1
+7821,NEC,Trenton,Weekend/Holiday,AM,13,Local,93,58.1
+7225,NJCL,Long Branch,Weekend/Holiday,AM,16,Local,97,53.9
+7625,NJCL,Rahway,Weekend/Holiday,AM,7,Local,42,20.7
+7825,NEC,Trenton,Weekend/Holiday,AM,13,Local,94,58.1
+7229,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local,148,75.1
+7629,NJCL,Rahway,Weekend/Holiday,AM,7,Local,41,20.7
+7829,NEC,Trenton,Weekend/Holiday,AM,13,Local,94,58.1
+7233,NJCL,Long Branch,Weekend/Holiday,AM,17,Local,100,53.9
+7833,NEC,Trenton,Weekend/Holiday,AM,13,Local,94,58.1
+7237,NJCL,Long Branch-BH,Weekend/Holiday,AM,25,Local,148,75.1
+7637,NJCL,Rahway,Weekend/Holiday,AM,7,Local,41,20.7
+7837,NEC,Trenton,Weekend/Holiday,AM,13,Local,94,58.1
+7839,NEC,Rahway,Weekend/Holiday,PM,6,Local,36,20.7
+7241,NJCL,Long Branch,Weekend/Holiday,PM,13,Semi-Local,91,53.9
+7841,NEC,Trenton,Weekend/Holiday,PM,14,Local,98,58
+8841,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express,88,58.1
+7245,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local,149,75.1
+7845,NEC,Trenton,Weekend/Holiday,PM,14,Local,94,58.1
+7847,NEC,Trenton,Weekend/Holiday,PM,10,Express,96,58.1
+7249,NJCL,Long Branch,Weekend/Holiday,PM,16,Local,99,53.9
+7849,NEC,Trenton,Weekend/Holiday,PM,14,Local,94,58.1
+7851,NEC,Trenton,Weekend/Holiday,PM,10,Express,88,58.1
+7253,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local,149,75.1
+7853,NEC,Trenton,Weekend/Holiday,PM,14,Local,93,58.1
+7855,NEC,Trenton,Weekend/Holiday,PM,10,Express,90,58.1
+7657,NJCL,Rahway,Weekend/Holiday,PM,7,Local,43,20.7
+7257,NJCL,Long Branch,Weekend/Holiday,PM,16,Local,99,53.9
+7857,NEC,Trenton,Weekend/Holiday,PM,13,Local,93,58.1
+8325,NJCL,Bay Head,Weekend/Holiday Extra,PM,22,Express,130,75.1
+7859,NEC,Trenton,Weekend/Holiday,PM,10,Express,91,58.1
+7661,NJCL,Rahway,Weekend/Holiday,PM,6,Local,39,20.7
+7261,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local,149,75.1
+7861,NEC,Trenton,Weekend/Holiday,PM,13,Local,93,58.1
+8861,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express,80,58.1
+7863,NEC,Trenton,Weekend/Holiday,PM,9,Express,83,58.1
+7665,NJCL,Rahway,Weekend/Holiday,PM,6,Local,39,20.7
+7265,NJCL,Long Branch-BH,Weekend/Holiday,PM,25,Local,149,75.1
+7865,NEC,Trenton,Weekend/Holiday,PM,13,Local,93,58.1
+8865,NEC,Trenton,Weekend/Holiday Extra,PM,9,Express,87,58.1
+7867,NEC,Trenton,Weekend/Holiday,PM,10,Express,85,58.1
+7269,NJCL,Long Branch,Weekend/Holiday,PM,17,Local,100,53.9
+7869,NEC,Trenton,Weekend/Holiday,PM,13,Local,94,58.1
+7673,NJCL,Rahway,Weekend/Holiday,PM,6,Local,39,20.7
+7871,NEC,Trenton,Weekend/Holiday,PM,10,Express,87,58.1
+7273,NJCL,Long Branch-BH,Weekend/Holiday,PM,23,Local,140,75.1
+7873,NEC,Trenton,Weekend/Holiday,PM,13,Local,93,58.1
+7875,NEC,Trenton,Weekend/Holiday,PM,9,Express,85,58.1
+7277,NJCL,Long Branch-BH,Weekend/Holiday,PM,24,Local,142,75.1
+7877,NEC,Trenton,Weekend/Holiday,PM,14,Local,94,58.1
+7879,NEC,Trenton,Weekend/Holiday,PM,9,Express,83,58.1
+7281,NJCL,Long Branch,Weekend/Holiday,PM,16,Local,97,53.9
+7881,NEC,Trenton,Weekend/Holiday,PM,14,Local,94,58.1
+7883,NEC,Trenton,Weekend/Holiday,PM,9,Express,83,58.1
+7285,NJCL,Long Branch-BH,Weekend/Holiday,PM,24,Local,142,75.1
+7885,NEC,Trenton,Weekend/Holiday,PM,14,Local,100,58.1
+7201,NJCL,Long Branch,Weekend/Holiday,Late Night,17,Local,103,53.9
+7887,NEC,Trenton,Weekend/Holiday,Late Night,15,Local,99,58.1
+7801,NEC,Trenton,Weekend/Holiday,Late Night,14,Local,99,58.1
+7205,NJCL,Long Branch-BH,Weekend/Holiday,Late Night,25,Local,147,75.1
+7805,NEC,Trenton,Weekend/Holiday,Late Night,15,Local,104,58.1
+5121,RVL,Raritan,Weekday,AM,14,Local,87,39.1
+5123,RVL,Raritan,Weekday,AM,14,Local,83,39.1
+5175,RVL,High Bridge,Weekday,PM,19,Local,112,55.9
+5127,RVL,Raritan,Weekday,PM,15,Local,85,39.1
+5179,RVL,High Bridge,Weekday,PM,20,Local,111,55.9
+5193,RVL,High Bridge,Weekday,PM,20,Local,109,55.9
+5155,RVL,Raritan,Weekday,PM,15,Local,81,39.1
+5197,RVL,High Bridge,Weekday,PM,19,Local,108,55.9
